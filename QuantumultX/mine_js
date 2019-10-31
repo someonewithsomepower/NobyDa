@@ -1,8 +1,7 @@
 hostname = biz.caiyunapp.com, mp.weixin.qq.com
 
-/**
- * @supported 65F5AC2
- */
+; @supported 65F5AC2
+
 
 #微信去广告
 ^https?:\/\/mp\.weixin\.qq\.com\/mp\/getappmsgad url script-response-body https://raw.githubusercontent.com/someonewithsomepower/NobyDa/master/QuantumultX/File/wechat_adblock
